@@ -7,7 +7,7 @@ public class FindMaximumProductSubarrayFunction {
             return 0;
         }
         
-        // Start from index 0
+        // Start from index 0 as placeholder
         int maxProduct = nums[0];
         int minProduct = nums[0];
         int maxResult = nums[0];
