@@ -1,4 +1,4 @@
-package maximumSubarray;
+package leetcode152;
 
 public class FindMaximumProductSubarrayFunction {
     public int maxProduct(int[] nums) {

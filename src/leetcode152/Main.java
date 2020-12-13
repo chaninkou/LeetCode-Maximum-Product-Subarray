@@ -1,4 +1,4 @@
-package maximumSubarray;
+package leetcode152;
 
 import java.util.Arrays;
 
