@@ -2,7 +2,6 @@ package leetcode152;
 
 public class FindMaximumProductSubarrayFunction {
     public int maxProduct(int[] nums) {
-        // If its empty, then return 0
         if (nums.length == 0){
             return 0;
         }
